@@ -5,3 +5,12 @@
   color: #FFFFFF;
   font-size: .5rem;
 }
+
+.media-object {
+    float: left;
+    padding-right: 2%;
+}
+
+.section-text {
+	text-align: left;
+}
